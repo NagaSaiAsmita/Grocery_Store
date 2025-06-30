@@ -1,5 +1,5 @@
 Grocify
-Grocery Store
+Grocery Store experience 
 
 ---
 **NOTE**
